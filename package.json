@@ -1,0 +1,38 @@
+{
+    "name": "ai.natml.natdevice.opencv",
+    "version": "1.0.0",
+    "displayName": "NatDevice OpenCV",
+    "description": "OpenCV integration library for NatDevice.",
+    "unity": "2020.3",
+    "dependencies": {
+        "ai.natml.device": "1.2.3"
+    },
+    "keywords": [
+        "natml",
+        "machine learning",
+        "ml",
+        "aritificial intelligence",
+        "ai",
+        "computer vision",
+        "opencv",
+        "android",
+        "ios",
+        "macos",
+        "windows",
+        "coreml",
+        "nnapi",
+        "directml",
+        "tensorflow",
+        "pytorch",
+        "torch",
+        "natdevice",
+        "natcorder"
+    ],
+    "author": {
+        "name": "NatML",
+        "email": "hi@natml.ai",
+        "url": "https://github.com/natmlx"
+    },
+    "license": "Apache-2.0",
+    "repository": "github:natmlx/NatDevice-OpenCV"
+}
